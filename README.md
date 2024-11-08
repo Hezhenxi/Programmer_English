@@ -1,5 +1,5 @@
 # Programmer_English
-java程序员英文词汇
+
 原则是方便发音，便于快读
 浊音 i dont know   i on know
      router 路由  ˈruːtər  t 读 d  ruːdər 
@@ -26,8 +26,9 @@ adjust	调整/əˈdʒʌst/
 constant	常量，恒定的，不断的/ˈkɑːnstənt/
 uplift	隆起，提高/ˈʌplɪft/
 establish 建立/ɪˈstæblɪʃ/
-
-
+equivalent	相同的，等量的/ɪˈkwɪvələnt/
+mission	 使命，任务/ˈmɪʃn/		missionary 使者
+revenues  收益，财政收入/ˈrɛvəˌnuz/
 
 ------------HSBC recruitment-------------------------------
 
@@ -167,9 +168,6 @@ whom  谁 huːm  与who同义，作为动词或介词的宾语) To whom should I
 ============================================
 scenario 2  Daily life
 ============================================
-spam 垃圾邮件电话/spæm/
-snooze 打盹/snuːz/
-volume	卷，体积，音量ˈvɑːljuːm
 roast	烤，嘲讽 /roʊst
 toast	烤的面包，吐司，敬酒，祝酒/toʊst/
 formal	正式的/ˈfɔːrml/
@@ -205,6 +203,8 @@ pause 暂停/pɔːz/
 resume 简历，恢复继续/rɪˈzuːm/
 original	原始的，原来的,独创的/əˈrɪdʒənl/
 ordinary 普通的/ˈɔːrdneri/
+common	常见的，共同的，普通的/ˈkɑːmən/
+comment 评论/ˈkɑːment/
 traditional 传统的/trəˈdɪʃənl/
 ancestors 祖先/ˈænˌsɛstərz/
 reality		现实/riˈæləti/
@@ -228,10 +228,40 @@ buck 美元，雄鹿/bʌk/
 liquid	液体，液态/ˈlɪkwɪd/
 solid	固态/ˈsɑːlɪd/
 fries	油炸，炸薯条/fraɪz/
+smelly	臭的/ˈsmeli/
 
 invent	发明/ɪnˈvent/
 rule  规则/ruːl/
 rude  粗鲁/ruːd/
+
+templ 寺庙，神殿，太阳穴/ˈtempl/
+temp  临时的/temp/
+tempo	节奏，拍子/ˈtempoʊ/
+ryhthm	节奏，韵律/ˈrɪðəm/
+order 	顺序n，命令v /ˈɔːrdər/
+sequence  序列，顺序，顺序排列/ˈsiːkwəns/
+
+influence	影响，作用/ˈɪnfluəns/
+fluently  流利的/ˈfluəntli/
+option	选项/ˈɑːpʃn/
+stock  股票/stɑːk/
+
+authorize  授权vt/ˈɔːθəraɪz/
+fancy	想要，认为v; 想象; 花哨，昂贵;/ˈfænsi/
+
+---------------------------------------------
+phone	2024-10-31
+---------------------------------------------
+spam 垃圾邮件电话/spæm/
+snooze 打盹/snuːz/
+volume	卷，体积，音量ˈvɑːljuːm
+mute 沉默的，无声的/mjuːt/
+gallery	画廊，相册/ˈɡæləri/
+junk	废旧物品/dʒʌŋk/
+blurry  模糊不清的/ˈblɜːri/
+widgets	小组件/ˈwɪdʒɪts/
+launch  启动，发射/lɔːntʃ/
+
 ---------------------------------------------
 ill
 ---------------------------------------------
@@ -257,7 +287,7 @@ overhead	头顶上/ˌoʊvərˈhed /
 overdo 	过火，过头
 bonus 奖金/ˈboʊnəs/
 similar	相似的/ˈsɪmələr/
-
+collapse	崩溃/kəˈlæps/
 ---------------------------------------------
 weather
 ---------------------------------------------
@@ -298,6 +328,11 @@ scenario 3  youtube video
 premium 高级，优质的，附加费 ˈpriːmiəm
 advertisement 广告/ˌædvərˈtaɪzmənt/
 
+---------------------------------------------
+persian	波斯/ˈpɜːrʒn/
+gulf	海湾，沟壑/ɡʌlf/
+
+---------------------------------------------
 
 ---------------------------------------------
 post video
@@ -322,7 +357,7 @@ episode 插曲，剧集/ˈepɪsoʊd/
 NBA
 ---------------------------------------------
 Buzzer Beater 绝杀ˈbʌzər ˈbiːtər/ 蜂鸣器
-
+strike	罢工，击打/straɪk/
 ---------------------------------------------
 Judge Mindy and accused booth
 ---------------------------------------------
@@ -422,54 +457,70 @@ presentation 演示，提交，出示ˌpriːzenˈteɪʃn		present 目前，出�
 register  注册ˈredʒɪstər
 refer 参考，提及rɪˈfɜːr
 
-sentence 句子，判决ˈsentəns
-staff 职工stæf
+sentence 句子，判决/ˈsentəns/
+staff 职工/stæf/
 
-tablet 平板 ˈtæblət
+tablet 平板 /ˈtæblət/
 
-tail 尾部 teɪl
+tail 尾部 /teɪl/
 
-vocabulary 词汇 vəˈkæbjəleri
+vocabulary 词汇 /vəˈkæbjəleri/
 
 ---------------------------------------------
 sentence
 ---------------------------------------------
+grammer	语法/ˈɡræmər/
+academic	学术的，学业的/ˌækəˈdemɪk/
+
 A country filled with lies
 as in  就像 as in the words that
 ---------------------------------------------
 pronuciation
 ---------------------------------------------
 ----æ---------
-audio	音频 录音ˈɔːdiəʊ
+audio	音频 录音/ˈɔːdiəʊ/
 letter 字母 信/ˈletər/
-vowels 韵母 ˈvaʊəl
-consonants 一致的，子音 ˈkɑnsənənt
-tense	紧张的；紧的；拉紧的；绷紧的tens
-jaw	下巴，下颌 dʒɔː
-remain	保持，剩余的 rɪˈmeɪn
-distort	扭曲，失真dɪˈstɔːrt
-backed 支持，后退，后援bækt  backed you  ，you 发 朱，是舌尖抵上颚原因。 would you
+vowels 韵母 /ˈvaʊəl/
+consonants 一致的，子音 /ˈkɑnsənənt/
+tense	紧张的；紧的；拉紧的；绷紧的/tens/
+jaw	下巴，下颌 /dʒɔː/
+chin 下巴/tʃɪn/
+chain 链子/tʃeɪn/
+remain	保持，剩余的 /rɪˈmeɪn/
+distort	扭曲，失真/dɪˈstɔːrt/
+backed 支持，后退，后援/bækt/  backed you  ，you 发 朱，是舌尖抵上颚原因。 would you
 
-pleasure 快乐，愉悦ˈpleʒər
-precious 珍贵宝贵ˈpreʃəs
-dialect	方言ˈdaɪəlekt/
+pleasure 快乐，愉悦/ˈpleʒər/
+precious 珍贵宝贵/ˈpreʃəs/  treasure
+dialect	方言/ˈdaɪəlekt/
 ----/ɛ/ ---------
 front 前frʌnt
 phonetic 拼音/fənetɪk/
 
 ----/ə/ /ɑ/--------- 	
-instructions 指令，教导  ɪnstrʌkʃ(ə)n
-promise		承诺ˈprɑːmɪs
+instructions 指令，教导  /ɪnstrʌkʃ(ə)n/
+promise		承诺/ˈprɑːmɪs/
 brand new   崭新的/ˌbrænd ˈnuː/
-similar	相似的 ˈsɪmələr
-familiar 熟练的，密友 fəˈmɪliər
-family	家人ˈfæməli
+similar	相似的 /ˈsɪmələr/
+familiar 熟练的，密友 /fəˈmɪliər/
+family	家人/ˈfæməli/
 
 ----/t/ ---------
-pathologist	病理学家/pəˈθɑːlədʒɪst
-flap 摆动 /flæp/
-vanishing 消失的，绝迹ˈvænɪʃɪŋ
+pathologist	病理学家/pəˈθɑːlədʒɪst/
+flap 摆动，闪 /flæp/
+vanishing 消失的，绝迹ˈvænɪʃɪŋ/
 glottal	声门，喉音/ˈɡlɑːtl/
 through 经过/θruː/
 throw	扔/θroʊ/
 throat 喉咙/θroʊt/
+
+-------rhythm---------
+syllables	音节/ˈsɪləbəlz/
+pitch	投手，音高/pɪtʃ/
+nouns	名词/naʊnz/
+verbs	动词/vɜːrb/
+adjectives	形容词/ˈædʒɪktɪvz/
+adverbs	 副词/ˈædvərbz/
+intonation	语调/ˌɪntəˈneɪʃn/
+dictation	听写/dɪkˈteɪʃn/
+dictionary	字典/ˈdɪkʃəneri/
