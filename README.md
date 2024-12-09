@@ -11,6 +11,198 @@ sorry can you go over/through that again
 put the vocabulary in the sentences to memories. 
 
 
+---------------------------------------------
+Design data-intensive application
+---------------------------------------------
+------------preface 序言/ˈprefəs/-------------------------------
+summary	摘要，总结/ˈsʌməri/
+scale	刻度，大小，规模/skeɪl/
+intensive	密集的/ɪnˈtensɪv/
+architecture	建筑的，架构/ˈɑːrkɪtektʃər/
+safari	游猎，长途旅行/səˈfɑːri/
+
+------------chapter 1 可靠性reliability，可拓展性scalability，可维护性maintainability-------------------------------
+reliable	可靠性，可信赖/rɪˈlaɪəbl/
+tolerating	容忍，容错性/ˈtɑːləreɪtɪŋ/
+hardware & sofeware
+faults	故障，过错/fɔːlts/
+human error
+
+scalable	可拓展性，可伸缩/ˈskeɪləbl/		resilience 能复原的，弹力/rɪˈzɪliəns/ 	  	flexible 灵活的/ˈfleksəbl/		feasiblity	可行性/ˌfizəˈbɪləti/
+measure	测量，措施/ˈmeʒər/
+load	负载，加载/loʊd/
+performance	演出，性能，表现，执行/pərˈfɔːrməns/	perform 执行，表演/pərˈfɔːrm/
+latency	延迟/'leɪtənsɪ/
+percentiles	百分位数/pərˈsentaɪl/
+throughput	吞吐量/ˈθruːpʊt/		throughout 始终，遍及
+
+maintainable	可维护性，保持/meɪnˈteɪn/
+operability	可操作性/ˌɑpərəˈbɪlɪti/
+simplicity	简易性/sɪmˈplɪsəti/
+evolvability	可进化性 evolving 进化/iˈvɑːlvɪŋ/
+
+data-intensive	数据密集型
+compute-intensive	计算密集
+database	数据库
+cache	缓存/kæʃ/
+search indexes	搜索索引
+stream processing	流处理
+batch processing	批处理
+data system	数据系统
+
+(API	application programming interface 应用程序编程接口
+client requests 	application code	first check if data is cached	read requests	in-memory cache		invalidate or update cache	application code
+cache misses and writes		primary database	capture changes to data
+asynchronous tasks	message queue	application code 	send email	outside world
+search requests		full-text indexes	apply updates to search index)
+
+reliability
+scalability
+maintainability
+
+fault 故障
+fault-tolerant	容错
+resilient	韧性
+failure	失效、失败
+
+hardware faults 	硬件故障
+MTTF,mean time to failure	平均无故障时间
+AWS,amazon web services	亚马逊网络服务
+prevent error	阻止预防错误
+flexibility	灵活性
+elasticity	弹性
+
+systematic error	系统性错误
+discrepancy	差异/dɪsˈkrepənsi/
+
+decouple	分离，解耦/diːˈkʌpl/
+sandbox		沙箱
+corner case		边缘场景
+telemetry	远距离测量术/təˈlemətri/
+degradation		降级，恶化/ˌdeɡrəˈdeɪʃn/
+load parameters		负载参数
+fan-out		扇出/fæn/
+
+throughput		吞吐量/ˈθruːpʊt/
+response time	响应时间
+distribution	分布
+arithmetic mean	算术平均值/əˈrɪθmətɪk/
+median		中位数/ˈmiːdiən/
+tail latencies	尾部延迟
+SLO,service level objective		服务级别目标
+SLA,service level agreements	服务级别协议
+queueing delay		排队延迟
+head-of-line blocking	头部阻塞
+
+scaling up		纵向扩展
+scaling out		横向扩展
+vertical scaling	垂直扩展
+horizontal scaling	水平扩展
+shared-nothing	无共享
+elastic		弹性
+highly unpredictable	极难预测
+stateless services		无状态服务/ˈsteɪtləs/	less 极少/les/
+magic scaling sauce		通用可拓展架构
+assumption	假设n/əˈsʌmpʃn/		assume	假设v/əˈsuːm/
+legacy 		遗留，遗产/ˈleɡəsi/
+
+operability		可操作性/ˌɑpərəˈbɪlɪti/		opera 歌剧/ˈɑːprə/	operation 操作/ˌɑːpəˈreɪʃn/
+simplicity	简易性/sɪmˈplɪsəti/
+complexity	复杂度/kəmˈpleksəti/
+extensibility	可拓展性
+modifiability	可修改性
+plasticity		可塑性	plastics	塑料/ˈplæstɪks/
+
+visibility	可见性/ˌvɪzəˈbɪləti/
+accidental	意外的/ˌæksɪˈdentl/
+abstraction	抽象/æbˈstrækʃn/
+directly	直接的/dəˈrektli/
+agile	敏捷的/ˈædʒl/
+TDD,test-driven development
+refactoring	重构/ˌriˈfæktərɪŋ/
+evolvability	可演化性
+
+functional requirements	功能需求
+nonfunctional	非功能性
+processing capacity	/kəˈpæsəti/处理容量	 capability	能力，才能/ˌkeɪpəˈbɪləti/
+
+------------chapter 2 data mode & query language-------------------------------
+Trading Route	贸易路线 route路线/ruːt/
+
+the realational empire	关系型帝国
+query planners 
+the declarative river
+sql metropolis 大都市/məˈtrɑːpəlɪs/
+postgreSQL,oracle,mysql,sqlServer,DB2,xpath,css, 
+
+key-value district  键值地区
+NoSql danger zone
+redis,berkeley DB,voldmort,riak,aerospike
+
+document data district	文档数据地区
+ruins XML database 摧毁，破坏/ˈruːɪnz/
+ims,rethinkDB,mongoDB,couchDB,hyperdex mapReduce forest 森林/ˈfɔːrɪst/
+
+column-family district	列家族地区  column栏目，列/ˈkɑːləm/
+HBase,cassandra
+
+graph data peaks 图数据高峰
+cypher,neo4j,datalog,datomic,orientDB,titan,sparql,codasyl
+
+nosql,not only sql
+polyglot persistence 混合持久化	通晓多种语言/ˈpɑːliɡlɑːt/ 持久化，坚持不懈/pərˈsɪstəns/
+impedance mismatch	阻抗不匹配	阻抗/ɪmˈpiːdns/
+ORM,object-relational mapping	对象关系映射
+locality	局部性，地点/loʊˈkæləti/
+duplication	副本/ˌduːplɪˈkeɪʃn/
+normalization	规范化/ˌnɔrməlɪˈzeɪʃən/
+hierarchical model	层次模型	等级的/ˌhaɪəˈrɑːrkɪkl/  /ˈmɑːdl/
+relational model	关系模型
+network model		网络模型
+access path 访问路径/ˈækses/	/pæθ/
+schemaless	无模式
+schema-on-read	读时模式
+schema-on-writes	写时模式
+multi-table index cluster tables	多表索引集群表
+column-family	列簇
+vertices	顶点/ˈvɜːtɪsiːz/  pyramid vertices	金字塔尖
+edges	边缘/ˈedʒɪz/
+arcs	弧，电弧/ɑːrks/
+vertex	顶点/ˈvɜːrteks/
+outgoing edges	出边
+ingoing edges	入边
+tail vertex		尾顶
+head vertex		头顶
+
+
+------------chapter 3 storage /ˈstɔːrɪdʒ/	& retrieve-------------------------------
+Ocean of distributed data
+To replication
+Log-Structured storage
+BigTable tablelands
+Riak,Cassandra,HBase
+Hightlands of search
+Bay of embedded storage engines
+Lucene, Rocks DB,LevelDB
+Repulic of transaction processing
+Forest of secondary indexes
+Land of the B-Trees
+HyperDex,BerkerleyDB,MySQL, PostgreSQL,Oracle, SqlServer,MongoDB
+Log Shipping
+VALLEY OF IN-MEMEORY STORAGE
+HADOOP REGION 
+Tower of Spark, Hive , Drill, LAKE OF HDFS,Impala, Presto
+SEA OF STORAGE & RETRIEVAL
+REALM OF DATA WAREHOUSES
+KINGDOM OF ANALYTICS
+MOUNTAINS OF COLUMN STORAGE
+Vertica, Parquet, ParAccel, RedShift
+
+
+
+
+
+
 =============================================
 scenario 1 Software Enginner
 =============================================
