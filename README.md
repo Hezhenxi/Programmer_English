@@ -801,525 +801,6 @@ data integration 数据集成
 ### 参考文献
 # 后记
 
-
-
-
-
-
-=============================================
-scenario 1 Software Enginner
-=============================================
-
-
-
----------------------------------------------
-HSBC_JD
----------------------------------------------
-regular 常规的，定期，有规律的/ˈreɡjələr/
-regulation	法规，监管/ˌreɡjuˈleɪʃn/
-adjust	调整/əˈdʒʌst/
-constant	常量，恒定的，不断的/ˈkɑːnstənt/
-uplift	隆起，提高/ˈʌplɪft/
-establish 建立/ɪˈstæblɪʃ/
-equivalent	相同的，等量的/ɪˈkwɪvələnt/
-mission	 使命，任务/ˈmɪʃn/		missionary 使者
-revenues  收益，财政收入/ˈrɛvəˌnuz/
-
-------------HSBC recruitment-------------------------------
-
-recruitment	招聘/rɪˈkruːtmənt
-internal 内部的，内心/ɪnˈtɜːrnl/
-external 外部的，外界的，外来/ɪkˈstɜːrnl
-retrieve 取回，恢复，检索，寻回/rɪˈtriːvd/
-
----------------------------------------------
-Tell me about your self tips
----------------------------------------------
-essentially 本质上，基本上/ɪˈsenʃəli/
-
----------------------------------------------
-Senior Software Enginner interview
----------------------------------------------
-achieve 实现əˈtʃiːv
-activities 活跃ækˈtɪvətiz
-actual 实际ˈæktʃuəl
-adapt 适应əˈdæpt
-advisor 顾问/ædˈvaɪzər
-affect 影响/əˈfekt
-archive  归档 ˈɑːrkaɪv
-associations 协会əˌsoʊsiˈeɪʃənz
-atmosphere 气氛ˈætməsfɪr       how would you describe your working atmosphere and some people with whom your working with
-auto 汽车/ˈɔːtoʊ/
-automat  自动售货机/ˈɔːtəmæt/
-automated 自动化ˈɔːtəmeɪtɪd
-automatically 自动ˌɔtəˈmætɪkli/
-areas 地区，地域ˈɛriəz
-
-basis 基础 ˈbeɪsɪs/
-budget	预算ˈbʌdʒɪt
-career 职业kəˈrɪr
-certain 确定/某些sɜːrtn   uncertainties不确定ənˈsɜrtəntiz
-chunks 块tʃʌŋks/
-
-complex 复杂的 kəmˈpleks
-compliance 遵从kəmˈplaɪəns  config compliance 
-contact 接触，联络ˈkɑːntækt
-continuous 连续的 kənˈtɪnjuəs
-countless 不可计算ˈkaʊntləs
-
-defined 定义/明确dɪˈfaɪnd
-deliver 交付dɪˈlɪvər	deliverable 可交付的dɪˈlɪvərəbl
-depth	深度depθ
-device 设备 dɪˈvaɪs
-digest	消化 ’daɪdʒes
-discover 发现 dɪˈskʌvər
-
-elaborate 详尽ɪˈlæbəreɪt
-electrical 用电的 ɪˈlektrɪkl
-elegant 优雅的，简洁的ˈelɪɡənt
-entry 进入ˈentri
-
-evaluate 评估/ɪˈvæljueɪt/
-eventual 最终/ɪˈventʃuəl/
-evolving 进化/iˈvɑːlvɪŋ/
-executives 主管ɪgˈzɛkjətɪvz	
-expectations 期望ˌɛkspɛkˈteɪʃənz
-expert 专家ˈɛkspərt
-exploring	探索ɪkˈsplɔːrɪŋ
-
-field 领域fiːld
-foreman 领班fɔːrmən
-frustrated 沮丧，无效ˈfrʌstreɪtɪd
-
-gain 获取ɡeɪn
-guide 指导ɡaɪd  guidelines 准则ˈgaɪˌdlaɪnz
-
-implement 实施/执行ˈɪmplɪment 
-industry 行业/ˈɪndəstri/
-innovative 创新ˈɪnəveɪtɪv
-institute 机构、研究所ˈɪnstɪtuːt
-integeration 整合ˌɪntɪˈɡreɪʃn
-intermediary  中间人ˌɪntərˈmidiˌeri
-internal 内部的ɪnˈtɜːrnl
-involved 参与ɪnˈvɑːlvd
-iterration 迭代ˌɪtəˈreɪʃn
-incorrect 不正确的ˌɪnkəˈrekt
-
-labs 实验室læbz
-latest 最新的，最晚的ˈleɪtɪst
-loop 循环luːp
-
-maintanance 维护ˈmeɪntənəns/
-maintain	保持，维护/meɪnˈteɪn/	maintainer保持器 retaine 医保持器
-maintainability 可维护性/meɪnˌteɪnəˈbɪlɪti/
-flexible	灵活的 /ˈfleksəbl/
-scalability  可拓展，可伸缩/skeɪləˈbɪlɪti
-reliability 可靠性 rɪˌlaɪə'bɪləti/		rəˌlīəˈbilədē
-robustness	健壮性，鲁棒性/roʊˈbʌstnəs/
-
-manufacture 制造业 ˌmænjuˈfæktʃər
-mechanical 机械的 məˈkænɪk
-
-nevertheless 然而/ˌnevərðəˈles
-
-occurring 发生əˈkɜːrɪŋ
-organizations 组织ˌɔrgənəˈzeɪʃənz
-oriented 面向的ˈɔːrientɪd
-
-pleased 高兴，乐于 /pliːzd/
-pace 步伐、速度peɪs
-perspectives 视角pərˈspɛktɪvz
-portfolio 文件夹pɔːrtˈfoʊlioʊ
-
-prior 先前的，占先的ˈpraɪər
-prototypes 原型ˈproʊtəˌtaɪps
-
-recommend 推荐/ˌrekəˈmend
-release 发布,释放rɪˈliːs
-reveal 揭示rɪˈviːl
-
-scenario 方案 səˈnærioʊ
-scenarios 方案/情节sɪˈnɛrioʊz
-scenes	场景 sinz
-since	自从 sɪns
-sing	唱歌 sɪŋ 杏
-simplification 简化ˌsɪmplɪfɪˈkeɪʃn/
-solve 解决	sɑːlv
-specific 具体的spəˈsɪfɪk
-stakeholders 受益者ˈsteɪkˌhoʊldərz
-states 国家、州/状态	 steɪts
-stress 压力stres
-
-verification 验证vɛrəfəˈkeɪʃən
-versus 对比 vsˈvɜːrsəs/
-vision 视野ˈvɪʒn
-
-within 之内wɪˈðɪn
-workable 可行的ˈwɜːrkəbl
-whom  谁 huːm  与who同义，作为动词或介词的宾语) To whom should I write
-
-
-
-============================================
-scenario 2  Daily life
-============================================
-roast	烤，嘲讽 /roʊst
-toast	烤的面包，吐司，敬酒，祝酒/toʊst/
-formal	正式的/ˈfɔːrml/
-grade   等级/ɡreɪd/ second grade
-occasionally 偶尔/əˈkeɪʒnəli/
-profit	利润/ˈprɑːfɪt/
-profile  轮廓/ˈproʊfaɪl/
-
-competition 竞争，竞赛，对手/ˌkɑːmpəˈtɪʃn/
-match 匹配，比赛/mætʃ/
-race 比赛，种族，角逐/reɪs/
-
-innovation 创新，改革/ˌɪnəˈveɪʃn/
-motivation	动机，积极/ˌmoʊtɪˈveɪʃn/
-positive	积极性，乐观的/ˈpɑːzətɪv/
-live 居住，直播/lɪv , laɪv/
-
-surround 包围，环绕/səˈraʊnd/
-surrender 投降，屈服/səˈrendər/
-
-subject 主题/ˈsʌbdʒɪkt、
-object 对象，反对/ˈɑːbdʒekt
-subjective 主观的/səbˈdʒektɪv/
-objective	客观的/əbˈdʒektɪv/
-
-grand 宏伟的/ɡrænd/	grandfather
-grande	宏大的/grɑnd/
-merry 愉快的/ˈmeri/
-marry  结婚/ˈmæri/
-roam 漫步/roʊm/
-
-pause 暂停/pɔːz/
-resume 简历，恢复继续/rɪˈzuːm/
-original	原始的，原来的,独创的/əˈrɪdʒənl/
-ordinary 普通的/ˈɔːrdneri/
-common	常见的，共同的，普通的/ˈkɑːmən/
-comment 评论/ˈkɑːment/
-traditional 传统的/trəˈdɪʃənl/
-ancestors 祖先/ˈænˌsɛstərz/
-reality		现实/riˈæləti/
-
-treasure	宝藏，财富/ˈtreʒər/
-trust	信任/trʌst/
-medal	奖章/ˈmedl/
-metal	金属/ˈmetl/
-material	材料/məˈtɪriəl/
-silver	银/ˈsɪlvər/
-bronze 铜质/ˌbrɑːnz /
-bachelor	单身汉，学士/ˈbætʃələr/
-
-mosquito	蚊子/məˈskiːtoʊ/
-mentally  精神上，思想上adv/ˈmentəli/
-spirit	精神,灵魂n/ˈspɪrɪt/
-sprite	雪碧/spraɪt/
-steel 钢铁/stiːl/
-steal	偷/stiːl/
-buck 美元，雄鹿/bʌk/
-liquid	液体，液态/ˈlɪkwɪd/
-solid	固态/ˈsɑːlɪd/
-fries	油炸，炸薯条/fraɪz/
-smelly	臭的/ˈsmeli/
-
-invent	发明/ɪnˈvent/
-rule  规则/ruːl/
-rude  粗鲁/ruːd/
-
-templ 寺庙，神殿，太阳穴/ˈtempl/
-temp  临时的/temp/
-tempo	节奏，拍子/ˈtempoʊ/
-ryhthm	节奏，韵律/ˈrɪðəm/
-order 	顺序n，命令v /ˈɔːrdər/
-sequence  序列，顺序，顺序排列/ˈsiːkwəns/
-
-influence	影响，作用/ˈɪnfluəns/
-fluently  流利的/ˈfluəntli/
-option	选项/ˈɑːpʃn/
-stock  股票/stɑːk/
-
-authorize  授权vt/ˈɔːθəraɪz/
-fancy	想要，认为v; 想象; 花哨，昂贵;/ˈfænsi/
-
----------------------------------------------
-phone	2024-10-31
----------------------------------------------
-spam 垃圾邮件电话/spæm/
-snooze 打盹/snuːz/
-volume	卷，体积，音量ˈvɑːljuːm
-mute 沉默的，无声的/mjuːt/
-gallery	画廊，相册/ˈɡæləri/
-junk	废旧物品/dʒʌŋk/
-blurry  模糊不清的/ˈblɜːri/
-widgets	小组件/ˈwɪdʒɪts/
-launch  启动，发射/lɔːntʃ/
-
----------------------------------------------
-ill
----------------------------------------------
-sweat  流汗/swet/
----------------------------------------------
-wechat
----------------------------------------------
-access 进入/ˈækses/
-auto 汽车/ˈɔːtoʊ/
-can 能 /kən/
-cant 不能/kænt/
-barely 仅仅，几乎/ˈberli/
-chat 聊天/tʃæt/
-correct 对的，修正 /kəˈrekt/
-colleagues 同事/ˈkɑligz/	里
-college 大学/ˈkɑːlɪdʒ/		咧
-
-tickle 挠痒痒，使快乐/ˈtɪkl/
-recall 回忆，召回 /rɪˈkɔːl/
-
-deal 处理，成交/diːl/
-overhead	头顶上/ˌoʊvərˈhed /
-overdo 	过火，过头
-bonus 奖金/ˈboʊnəs/
-similar	相似的/ˈsɪmələr/
-collapse	崩溃/kəˈlæps/
----------------------------------------------
-weather
----------------------------------------------
-cloudy 多云、阴天ˈklaʊdi
-moderate 中等的，节制的  美ˈmɑːdəreɪt  英/ˈmɒdərət
-overcast 阴天 美/ˌoʊvərˈkæst/ 英/ˌəʊvəˈkɑːst/
-shower 沐浴，小雨ˈʃaʊər
-
----------------------------------------------
-ali pay
----------------------------------------------
-addition 加法 əˈdɪʃn
-asset 资产 ˈæset
-balance 平衡，余额ˈbæləns
-devision 除法 dɪˈvɪʒn
-divide  除以 dɪˈvaɪd
-debit 借记ˈdebɪt
-debt  债务 det
-equal to 等于ˈiːkwəl tu
-
-gross 总的，总收入，毛利率ɡroʊs
-minus  减ˈmaɪnəs
-
-multi 多种ˈmʌlti
-multiplication  乘法ˌmʌltɪplɪˈkeɪʃn
-multiply by 乘以ˈmʌltɪplaɪ baɪ
-
-of 属于 əv
-offset 抵消，偏移量ˈɔːfset
-
-plus 加上 plʌs
-
-stuff 东西 stʌf
-subtraction  减法 səbtrækʃən
-============================================
-scenario 3  youtube video
-============================================
-premium 高级，优质的，附加费 ˈpriːmiəm
-advertisement 广告/ˌædvərˈtaɪzmənt/
-
----------------------------------------------
-persian	波斯/ˈpɜːrʒn/
-gulf	海湾，沟壑/ɡʌlf/
-
----------------------------------------------
-
----------------------------------------------
-post video
----------------------------------------------
-drag 拖拽/dræɡ/
-
-clingy 紧身的，粘人的/ˈklɪŋi/
-stray 迷路，流浪/streɪ/
-pregnant	怀孕的/ˈpreɡnənt/
-caption 字幕标题/ˈkæpʃn/
-
-strict 严格/strɪkt/
-restrict 限制/rɪˈstrɪkt/
-
----------------------------------------------
-xinjiang
----------------------------------------------
-footage 影片，录像/ˈfʊtɪdʒ/
-episode 插曲，剧集/ˈepɪsoʊd/
-
----------------------------------------------
-NBA
----------------------------------------------
-Buzzer Beater 绝杀ˈbʌzər ˈbiːtər/ 蜂鸣器
-strike	罢工，击打/straɪk/
----------------------------------------------
-Judge Mindy and accused booth
----------------------------------------------
-accused 被告，控诉，谴责əˈkjuːzd
-amends 补偿，赎罪/əˈmendz/
-court 法院，法庭，球场 kɔːrt
-charge 起诉，控告，充电 tʃɑːrdʒ   discharge 排出，解雇 ，放电dɪsˈtʃɑːrdʒ 
-disappointed 失望的ˌdɪsəˈpɔɪntɪd
-embarrassed 尴尬 ɪmˈberəs
-
-former 前，以前，昔日ˈfɔrmər
-genuinely 真诚的ˈdʒenjuɪnli
-
-
-judge 法官，审判员，裁判 dʒʌdʒ
-recused 回避 rɪˈkjuzd
-root 根，支持 ruːt/
-
----------------------------------------------
-How to be native english speaker
----------------------------------------------
-applause 掌声əˈplɔːz
-accent 口音，重音ˈæksent
-clarity 清晰 ˈklærəti unclarity不明确
-Eliminate your accent   消除ɪˈlɪmɪneɪt
-Immersion  浸泡，沉浸ɪˈmɜːrʒn
-
----------------------------------------------
-CoolVision  The USA city
----------------------------------------------
--------new york----------
-avenue 大街/ˈævənuː	
-tenant 租户，房客ˈtenənt
-rent	租金，租用/rent
-
--------shanghai-------------
-traffic 交通/ˈtræfɪk/    traffic jam 堵车	jam 果酱拥堵 dʒæm/ 
-garden	公园ˈɡɑːrdn
-park	公园，园区，运动场 pɑːrk
-lie		躺，撒谎laɪ
-liar	撒谎者ˈlaɪər
-lawyer	律师ˈlɔːjər
-temple	寺庙ˈtempl/
-
-============================================
-scenario 4 Iyrics of songs
-============================================
----------------------------------------------
-viva la vida 
----------------------------------------------
-castl 城堡ˈkæsl/
-
----------------------------------------------
-lazy song
----------------------------------------------
-tone 语气，音调  toʊn	at the tone 在语音
-
-============================================
-scenario 4 search frequently
-============================================
----------------------------------------------
-vocabulary
----------------------------------------------
-browser 浏览器ˈbraʊzər
-
-craft 工艺 kræft
-crash 崩溃，碰撞kræʃ
-credit 信用ˈkredɪt
-channel 频道，海峡ˈtʃænl
-
-demestic  国内的、家庭的 dəˈmestɪk
-
-fluent 流利ˈfluːənt
-frequently 频繁ˈfriːkwəntli/
-
-hint  提示，暗示 hɪnt
-hotspot 热点ˈhɑːt spɑːt
-
-
-immature 幼稚ˌɪməˈtʃʊr
-immediately  立即，马上 ɪˈmiːdiətli
-
-mainland 大陆ˈmeɪnlænd
-
-
-payload 有效载荷ˈpeɪloʊd
-previous 前一个ˈpriːviəs
-principal 主要的ˈprɪnsəpl
-
-priority 优先 praɪˈɔːrəti
-private 私人ˈpraɪvət
-province 省ˈprɑːvɪns
-proxy 代理 ˈprɑːksi
-pronunciation  发音 prəˌnʌnsiˈeɪʃn
-presentation 演示，提交，出示ˌpriːzenˈteɪʃn		present 目前，出席，现存ˈpreznt 
-
-register  注册ˈredʒɪstər
-refer 参考，提及rɪˈfɜːr
-
-sentence 句子，判决/ˈsentəns/
-staff 职工/stæf/
-
-tablet 平板 /ˈtæblət/
-
-tail 尾部 /teɪl/
-
-vocabulary 词汇 /vəˈkæbjəleri/
-
----------------------------------------------
-sentence
----------------------------------------------
-grammer	语法/ˈɡræmər/
-academic	学术的，学业的/ˌækəˈdemɪk/
-
-A country filled with lies
-as in  就像 as in the words that
----------------------------------------------
-pronuciation
----------------------------------------------
-----æ---------
-audio	音频 录音/ˈɔːdiəʊ/
-letter 字母 信/ˈletər/
-vowels 韵母 /ˈvaʊəl/
-consonants 一致的，子音 /ˈkɑnsənənt/
-tense	紧张的；紧的；拉紧的；绷紧的/tens/
-jaw	下巴，下颌 /dʒɔː/
-chin 下巴/tʃɪn/
-chain 链子/tʃeɪn/
-remain	保持，剩余的 /rɪˈmeɪn/
-distort	扭曲，失真/dɪˈstɔːrt/
-backed 支持，后退，后援/bækt/  backed you  ，you 发 朱，是舌尖抵上颚原因。 would you
-
-pleasure 快乐，愉悦/ˈpleʒər/
-precious 珍贵宝贵/ˈpreʃəs/  treasure
-dialect	方言/ˈdaɪəlekt/
-----/ɛ/ ---------
-front 前frʌnt
-phonetic 拼音/fənetɪk/
-
-----/ə/ /ɑ/--------- 	
-instructions 指令，教导  /ɪnstrʌkʃ(ə)n/
-promise		承诺/ˈprɑːmɪs/
-brand new   崭新的/ˌbrænd ˈnuː/
-similar	相似的 /ˈsɪmələr/
-familiar 熟练的，密友 /fəˈmɪliər/
-family	家人/ˈfæməli/
-
-----/t/ ---------
-pathologist	病理学家/pəˈθɑːlədʒɪst/
-flap 摆动，闪 /flæp/
-vanishing 消失的，绝迹ˈvænɪʃɪŋ/
-glottal	声门，喉音/ˈɡlɑːtl/
-through 经过/θruː/
-throw	扔/θroʊ/
-throat 喉咙/θroʊt/
-
--------rhythm---------
-syllables	音节/ˈsɪləbəlz/
-pitch	投手，音高/pɪtʃ/
-nouns	名词/naʊnz/
-verbs	动词/vɜːrb/
-adjectives	形容词/ˈædʒɪktɪvz/
-adverbs	 副词/ˈædvərbz/
-intonation	语调/ˌɪntəˈneɪʃn/
-dictation	听写/dɪkˈteɪʃn/
-dictionary	字典/ˈdɪkʃəneri/
-
 原则是方便发音，便于快读
 浊音 i dont know   i on know
      router 路由  ˈruːtər  t 读 d  ruːdər 
@@ -1400,6 +881,9 @@ charter n.特许，许可证 /ˈtʃɑːrtər/  standard chartered bank 标准特
  
 
 ## java
+bean  n.豆子，豆荚  vt.击中头部 /biːn/
+module n.模块，单元/ˈmɑːdʒuːl/
+ram up 向上运送，吊起/ræm ʌp/
 atom n.原子/ˈætəm/
 optimistic adj.乐观的 /ˌɑːptɪˈmɪstɪk/   optimistic lock
 slice n.片，薄片，部分  v.切，割，划  /slaɪs/
@@ -1462,7 +946,8 @@ fire Store 火热的商店
 command n.v.命令，指令，控制，指挥 /kəˈmænd/ command line 命令行
 armor	n.装甲，盔甲 v.为...装甲，盔甲 /ˈɑrmər/ cloud armor 云盔甲
 ban  n.禁令 vt.取缔，明令禁止，禁止 /bæn/
-assessor  n.法庭/官方团体的顾问，审判员，评估员，考核人/əˈsesər/
+assess vt.评估 评定，估算 /əˈses/ assess app resilience评估软件弹性   assessment考核
+assessor n.法庭/官方团体的顾问，审判员，评估员，考核人/əˈsesər/
 proctor n.监考人员 vt.监督 /ˈprɑːktər/
 voucher n.代金券，券票 /ˈvaʊtʃər/
 claim  v.宣称，声称  n.索款，赔款，声明 /kleɪm/  Always try to claim they are the original pure Chinese  一直尝试宣称自己是原始纯种中国人
@@ -1472,6 +957,71 @@ perks  n.补贴，津贴 v.竖起 /pɜːrks/  Nipple perk
 figure n.图形，任务，认为，计算 /ˈfɪɡjər ɪt aʊt/ figure it out 了解它
 
 #### Developer
+uptime n.(计算机)运行时间  uptime check.运行时间检查
+zip n.拉链 v.压缩 /zɪp/ use zipkin and cloud trace for latency metric 使用ipkin 和Trace 来收集延迟指标
+patch  n.补丁
+redundant  adj.冗余的，多余的，不需要的/rɪˈdʌndənt/ 
+recursive   adj.递归，循环 /rɪˈkɜːrsɪv/  remove recursive 递归删除
+reCAPTCHA  n.重新验证码
+friction  n.摩擦，摩擦力，分歧，不合/ˈfrɪkʃn/  reCAPTCHA add user friction 多重验证码增加用户摩擦。
+ease  v.缓解，减轻，缓和 n.容易，自在 /iːz/ ease of use 易用性
+corrupt adj.腐败，贪污，受贿  v.损坏，堕落，腐化  /kəˈrʌpt/ file system corrupted 文件系统损坏
+intermit v.间歇，暂停   intermit load 间歇性负载
+spawn n.产卵，引发，引起/spɔːn/  will Not spawn a separete pipeline 不会引起单独的管道
+falsifialbe  网络.伪证的 non-falsifiable不可伪证的
+preditermine vt.预先决定，事先安排/ˌpriːdɪˈtɜːrmɪn/ preditermine traffic 预定流量
+board n.板 船，董事会 /bɔːrd/  change advisory board  变更咨询委员会（CAB）
+modern adj.现代的 n.现代人 英/ˈmɒdn/ 美/ˈmɑːdərn/ modernize 使现代化
+restore vt.恢复，修复，归还 /rɪˈstɔːr/ order will be restored秩序将会被恢复
+horizontal   adj.水平的，横的  n.水平面，水平线 /ˌhɔːrɪˈzɑːntl/ horizontal pod autoscale pod横向扩展
+Meter n.米，计，表  vt.用仪表计量 /ˈmiːtər/ JMeter java仪表计量
+mutual n.相互的，共同的/ˈmjuːtʃuəl/ mTLS mutual Transport Layer Security 双向的传输层协议，SSL证书认证
+correlate v.相关 adj.相关联的 /ˈkɔːrələt , ˈkɔːrəleɪt/ correlate them 关联它们
+monolithic adj.庞大而单一的 /ˌmɑːnəˈlɪθɪk/ monolithic application 单体应用
+aggregate  adj.v.聚合，合计 /ˈæɡrɪɡeɪtɪd/ aggregated exports 聚合导出
+monotonic  adj.单调的，无变化的 UUID increse monotonically UUID单挑增长
+facilitate  vt.促进，使便利 /fəˈsɪlɪteɪt/ facilitate elastic scaling 促进弹性扩展
+semantic adj.语义的 /sɪˈmæntɪk/ semantic version 语义的版本
+cannonical adj.典型的，经典的 /kəˈnɑːnɪkl/ 
+interleave vt.交错，插入，夹进 /ˌɪntərˈliːv/ interleave phone table into customer table ,将电话表交错到用户表
+convention  n.公约，协定 /kənˈvenʃn/  tag convention 版本协议
+pending  adj.待定 prep.在等待时期  v.悬而未决 /ˈpendɪŋ/
+throughout  prep.遍及，贯穿   adv.始终 /θruːˈaʊt/
+throughput  n.吞吐量 /ˈθruːpʊt/
+issue n.问题，发型 vt.发型，发出 /ˈɪʃuː/   troubleshot the issue 定位问题
+dormant  adj.休眠的，蛰伏的，冬眠的 /ˈdɔːrmənt/  dormant bucket‘s peak.  休眠存储桶高峰
+degradation n.毁坏，恶化，堕落/ˌdeɡrəˈdeɪʃn/ service degradation 服务降级
+diagnose v.诊断 /ˌdaɪəɡˈnoʊs/ diagnose the problem 诊断问题 perfdiag 性能诊断
+ship n.船，舰  v.运输，运送 /ʃɪp/ ship them to existing platform 传输到现有系统
+summary  n.adj.总结，概要，概括 /ˈsʌməri/
+squash n.壁球，南瓜，果汁饮料  v.挤进，挤压，粉碎，制止，打断  /skwɑːʃ/  --squash argument 压缩参数
+combine  v.结合，联合，合并  n.联合收割机，集团 /kəmˈbaɪn , ˈkɑːmbaɪn/ combine newly build 结合新构建
+reference n.参考，参照，参阅，编号，索引 vt.提及，附加 adj.参考的 /ˈrefrəns/ reference Docker container images 引用Docker镜像
+sequential adj.顺序的，按次序的，连续的 /sɪˈkwenʃl/ multiple sequential step 多个连续步骤
+chaos  n.混乱，紊乱/ˈkeɪɑːs/ chaos engineering 混沌工程
+behave v.表现，有礼貌 /bɪˈheɪv/   how app will behave 软件将会有什么表现
+approach  n.方法，方式  v.接近 /əˈproʊtʃ/ 
+algorithm n.算法 /ˈælɡərɪðəm/ recommendation algorithm 推荐算法
+gradually  adv.逐渐地 /ˈɡrædʒuəli/ gradually enable 逐渐启用
+overhead  n.开销，开支 adj.高架，头顶上/ˌoʊvərˈhed , ˈoʊvərhed/ minimize operational overhead 减少运营开销
+annotate vt.注释， 注解 /ˈænəteɪt/
+bind  v.绑定，结合  n.窘境 /baɪnd/ bind service account 绑定服务账号
+emit vt.发出，射出，散发 /iˈmɪt/ emit logs in JSON format发出JSON格式的日志
+trigger vt.触发，引起 n.触发器 /ˈtrɪɡər/  triggered by Pub/Sub message 被消息队列触发
+regression  n.回归，倒退，退化 /rɪˈɡreʃn/ regression test回归测试
+reserve  n.保留，储备，储存量，后备军 v.保留，预定，预约/rɪˈzɜːrv/  reserve hotle 预定酒店
+immediate adj.立即的，立刻的 ，直系的，直接的 /ɪˈmiːdiət/ immediate confirmation 立即确认
+console vt.安慰，慰藉  n.控制台，操作台/kənˈsoʊl , ˈkɑːnsoʊl/
+periodic adj.周期的，定期的/ˌpɪriˈɑːdɪk/ priodic check 定期检查
+revoke vt.撤销，取消，废除 n.废弃/rɪˈvoʊk/ revoke document 撤销文档
+impersonate vt.模仿，冒充，假冒 adj.人格化的/ɪmˈpɜːrsəneɪt/ service account impersonate 服务账号模拟
+excessive adj.多度的，过多的 /ɪkˈsesɪv/ excessive request 过多的请求
+rate n.率，速度，价格，比例 v.评价，评估 /reɪt/ rate limit速率限制
+generate vt.产生，生成，引起/ˈdʒenəreɪt/ generate high loads生成高负载
+corporate adj.公司的，法人的 n.合伙公司 /ˈkɔːrpərət/ corporate laptop 公司笔记本电脑
+exfiltration n.渗出，泄露 data exfiltration 数据泄露
+pattern n.图案，模式，方式 vt.构成图案 /ˈpætərn/ traffic patterns 流量模式
+provenance n.出处，起源，发源地/ˈprɑːvənəns/ Build provenance构建来源
 orchestrate vt.编排，策划/ˈɔːrkɪstreɪt/ orchestrate the step 编排步骤
 utilitie n.使用，使用程序，效用/juˈtɪlətiz/  utilitie tools实用工具
 conduct n.行为，举止， v.实施，传导，安排，引导  /kənˈdʌkt , ˈkɑːndʌkt/ conduct research 实施进行研究
@@ -1492,12 +1042,12 @@ SSL Secure Socket Layer 安全套接字层
 component n.组成部分，成分，不见 adj.成分，构成/kəmˈpoʊnənt/ use profiler as a component by use maven 使用maven将Profiler当成组件
 spanner n.扳手 /ˈspænər/
 plain n.平原 adj.简单，朴素，直接的 /pleɪn/ plain text 纯文本
-perimeter n.周长，边缘，边界/pəˈrɪmɪtər/ same perimeter 相同的边界
+perimeter n.周长，边缘，边界/pəˈrɪmɪtər/ same perimeter 相同的边界 security perimeter 安全边界
 ingress n.进入，进入权/ˈɪnɡres/
 route n.路线，路径，v.路由,按路线发送/ruːt/  route req to backend 路由请求到后端
 tunel n.隧道，地道 /ˈtʌnl/ VPN tunels VPN隧道
 daemon set 守护进程集
-duty n.责任，指责，义务，任务/ˈduːti/ follow the "separation of duties" 遵循指责分离
+duty n.责任，职责，义务，任务/ˈduːti/ follow the "separation of duties" 遵循职责分离
 rapidly  adv. 迅速，高速/'ræpɪdlɪ/ rapidly deploy 快速部署
 explicitly adv.明确的，明白的/ɪkˈsplɪsətli/ explicitly commit 显示提交
 exponential adj.指数，幂的 /ˌekspəˈnenʃl/  exponential backoff 指数回退
@@ -1515,7 +1065,7 @@ aware adj.知道，意识到 /əˈwer/  identity aware proxy 身份感知代理
 credit n.信用，贷款，学分，积分/ˈkredɪt/ add credit to acount balance 添加积分要用户余额。
 digest v.消化 n.摘要ˈdaɪdʒest/ use the digest of docker image.使用docker镜像摘要
 usage n.使用/ˈjuːsɪdʒ/ CPU usage CPU利用率
-against prep.反对 ，靠，对/əˈɡenst/  excutes queries aginst a dataset 对数据集进行查询
+against prep.反对 ，违反，靠，应对，对/əˈɡenst/  excutes queries aginst a dataset 对数据集进行查询
 plot n.情节  v.绘制  /plɑːt/ Monitoring plot query executed time. 监控绘制查询时间
 scope n.范围/skoʊp/ drive.file scope  drive.file范围  
 omit v.省略，忽略/əˈmɪt/ omit display when error 错误时忽略显示
@@ -1533,7 +1083,7 @@ merchandise n.商品，货品  v.推销 /ˈmɜːtʃəndaɪs , ˈmɜːtʃəndaɪz
 profiler n.轮廓仪，分析器，分析工具/ˈproʊˌfaɪlər/
 repository v.仓库，存放处 /rɪˈpɑːzətɔːri/ Artifact repository 工件存放处
 fan n.风扇，粉丝/fæn/  fanout 扇出
-exempt v.vt.豁免，免除  n.被免除，免税人/ɪɡˈzempt/ exempted principals 豁免主体。
+exempt v.vt.豁免，免除  n.被免除，免税人/ɪɡˈzempt/ exempted any container images that are not deploy to prod 豁免任何未部署到生产的容器镜像。
 intent n.意图，目的，计划 adj.专注/ɪnˈtent/
   Communicate your intent to operater 与运维交流你的意图
 retention n.保留，保持 /rɪˈtenʃn/
@@ -1544,7 +1094,7 @@ sink v.下沉，降低，挖，掘/sɪŋk/ 日志水槽
 slot  n.节目表中的位置，时间，机会，狭槽  v.插入，装入，塞进，投放/slɑːt/
 taint vt.污染/teɪnt/  taint the node is no useful for cordon and drain 污染节点对于隔离和排空节点无用
 attestor n.证明者
-leverage  n.影响力 v.利用/ˈlevərɪdʒ/
+leverage  n.影响力 v.利用/ˈlevərɪdʒ/ gRPC leverage protocal buffers gRRC 利用协议缓冲区
 preemptible 网络 可抢占   leverage preemptible VM 利用抢占型虚拟机
 redact vt.编辑
 rely v.依赖，依靠/rɪˈlaɪ/ rely on 依靠，信赖
@@ -1587,7 +1137,7 @@ eliminate vt.消除，排除，消灭，干掉/ɪˈlɪmɪneɪt/  eliminate toil 
 stage n.阶段，状态，领域 vt.组织，使发生/steɪdʒ/  staging 试运行、预发布、暂存
 encounter n.vt.遭遇，遇到 /ɪnˈkaʊntər/ You encounter a large of outage 你遭遇了大量停机
 dedicate  vt.奉献/ˈdedɪkeɪt/  dedicate others achive myself 奉献别人成就自己
-dedicated adj.专用的，献身的 v.奉献 /ˈdedɪkeɪtɪd/ 
+dedicated adj.专用的，献身的 v.奉献 /ˈdedɪkeɪtɪd/  dedicated IP 专用IP
 extends v.扩展，延长，扩大 /ɪkˈstendz/ extends funtionality 扩展功能
 minimize vt.减少，最小化/ˈmɪnɪmaɪz/  minimizing costs 最小化成本
 quota  n.配额，定额，指标，定量/ˈkwoʊtə/ project quota 项目配额
@@ -1607,7 +1157,7 @@ trunk   n.树干，主干，主题  adj.主干的  v.把放入行李箱/trʌŋk/
 trunk-based   基于主干
 idle adj.空闲的，闲置的 v.空转，无所事事 /ˈaɪdl/ idle instances  空闲实例
 gauge  vt.测量，判定 n.事实，依据，尺度，标准/ɡeɪdʒ/
-critical  adj.关键的，批评的  /ˈkrɪtɪkl/ business-critical 业务关键
+critical  adj.关键的，批评的  /ˈkrɪtɪkl/ business-critical 业务关键   .批判性精神是关键的创新精神的第一步。
 criteria n.标准 /kraɪ'tɪriə/
 premise 	n.前提，假定  v.假定，引导 /ˈpremɪs/  on-premise 内部部署，本地部署
 velocity n.速度，高速，快速 /vəˈlɑːsəti/  deployment velocity 部署的速度
@@ -1630,7 +1180,7 @@ ingress n.进入，进入权，入境权 /ˈɪnɡres/
 postmortem n.验尸， 事后分析，事后检讨/poʊstˈmɔrtɛm/ 
 tail n.尾 ，尾巴，尾部  vt.跟踪，尾随 /teɪl/  to tail the log file  	去跟踪日志文件
 
-provision  n.提供 ，规定，条款 vt.为...提供所需物品 /prəˈvɪʒn/
+provision  n.提供 ，规定，条款 vt.为...提供所需物品 /prəˈvɪʒn/ provision a shared VPC 提供一个共享的VPC
 terraform  v.将行星 地球化/ˈterəfɔːrm/  terraform is a provision tool .  terraform是一个规定条款工具
 
 ### Interview
@@ -2259,7 +1809,7 @@ Buzzer Beater 绝杀ˈbʌzər ˈbiːtər/ 蜂鸣器
 lead	n.v.领导,引领，指导 /liːd , led/
 led 	v.起主导作用，引领，通往，引路/led/
 strike	n.v.罢工，击打/straɪk/			union led strike 工会领导罢工， volleyball need strike the ball by palm 排球需要用手掌击打球。
-league	n.联合会，联赛 v.结盟 /liːɡ/
+league	n.联合会，联赛 v.结盟 /liːɡ/  revenge league 复仇者联盟
 legend n.传奇，传说，非常有名的 /ˈledʒənd/
 aggress  v.侵略		play aggressive  打得更有侵略性。 
 aggressor n.侵略者，挑衅者 /əˈɡresər/
@@ -2536,3 +2086,8 @@ compund n.化合物，混合物 vt.混合  adj.复合的 /kəmˈpaʊnd/ compound
 and /ənd , ænd/
 am /əm/
 are /ɑːr , er/
+
+
+
+
+
