@@ -78,8 +78,9 @@ charter n.特许，许可证 /ˈtʃɑːrtər/  standard chartered bank 标准特
  
 
 ## java
+raft  n.木筏，大量，许多  /ræft/
 bean  n.豆子，豆荚  vt.击中头部 /biːn/
-module n.模块，单元/ˈmɑːdʒuːl/
+module n.模块，单元/ˈmɑːdʒuːl/  
 ram up 向上运送，吊起/ræm ʌp/
 atom n.原子/ˈætəm/
 optimistic adj.乐观的 /ˌɑːptɪˈmɪstɪk/   optimistic lock
@@ -186,12 +187,34 @@ rm	删除文件
 rm -rf /* 
 grep 搜索  Global Regular Expression  全局正则表达式
 
+
+#### mysql 909
+exact  adj.准确的，精确的，严格的 vt.要求，强迫，索取，迫使/ɪɡˈzækt/  exact output 准确的输出
+agnostic  n.不可知论者，无关/æɡˈnɑːstɪk/  database agnostic 与数据库无关
+fragment  n.片段，碎片  v.破碎，破裂/ˈfræɡmənt , fræɡˈment/  code fragment ,cache fragent 代码碎片，内存碎片
+produce  vt.生产，制造 /prəˈduːs , ˈprɑːduːs/  produce the output 产生结果。 producer监制
+raise  v.提高，提升 /reɪz/ raise error 提高错误
+fetch  vt.取来，拿来  n.拿来  /fetʃ/  fetch code 拉取代码
+fewest   adj.最少的  fewest modified rows 修改行最少的
+victim  n.受害者，牺牲品，牺牲 /ˈvɪktɪm/  deadlock victim 死锁牺牲者
+continent  n.大陆，洲，陆地  adj.自制的，节欲的 /ˈkɑːntɪnənt/  five continent 五大洲
+given  prep.鉴于，考虑到  adj.规定的，特定的，指定的  n.假设事实 v.提供，供给，交给 /ˈɡɪvn/  given emp_id 指定员工id
+delimiter  n.分隔符 delimiter //
+sufficient  n.adj.足够的，充足的  /səˈfɪʃnt/  sufficient privilege足够的权限
+preserve  vt.保存，保护，保留 n.果酱，泡菜  /prɪˈzɜːrv/  preserve enable 开启保持
+cursor  n.光标，游标/ˈkɜːrsər/
+suppress  vt.抑制，控制，雅致，禁止，镇压，封锁/səˈpres/  suppress warning 压制警告
+theme  n.主题，旋律，主题酒馆/θiːm/ 
+clause  n.法律条款，子句，从句/klɔːz/   where clause where子句
+routine n.常规，例行程序，无聊 /ruːˈtiːn/ create routine 创建例行程序
+invoice  n.发票，vt.开发票/ˈɪnvɔɪs/ supplier invoice 支持开发票
+
 #### mysql 908
 general  adj.一般的，总的，普通的，通用的  n.将军  /ˈdʒenrəl/   general tablespace 通用的表空间
 at-rest  静止的，安息
 portable adj.便携的，手提的，轻便的  n.便携机，手提电脑，手提电视机/ˈpɔːrtəbl/  highly portable 高度便携
 urgent	 adj.紧急的，迫切的 /ˈɜːrdʒənt/ reduce urgently 紧急减少
-stead	n.代替，用处，好处	v.对..有用  /sted/ in stead of  取代
+stead	n.代替，用处，好处	v.对..有用  /sted/ in stead of  取代  steadily adv.稳定的/'stedɪlɪ/
 permit	n.许可证，特许证  v.允许，准许/pərˈmɪt , ˈpɜːrmɪt/  permission
 boot	n.靴子，行李箱，猛踢  v.计算器启动，操作系统已安装，装入操作系统 /buːt/  reboot 重启
 plaintext  n.明文
@@ -223,7 +246,7 @@ privilege  n.特权，荣幸，荣耀，权利，权限/ˈprɪvəlɪdʒ/  file p
 column n.柱，专栏，长列，列/ˈkɑːləm/  add column 添加列
 schema  n.提要，刚要，架构 /ˈskiːmə/  metadata shema 元数据概要
 drop   n.下降，下跌  v.变弱，降下，停止 /drɑːp/  drop the beat 放伴奏
-tape  n.磁带，胶带 /teɪp/ integrate tape 集成磁带
+tape  n.磁带，胶带 /teɪp/ integrate tape 集成磁带     mixtape 混合磁带
 benefit  n.利益，优势  v.得益于 /ˈbenɪfɪt/   three benefits 三个益处
 mandatory   adj.强制的，法定的，义务的 /ˈmændətɔːri/  mandatory role 强制角色
 persist   v.坚持，持续存在，保持，维持 /pərˈsɪst/ 
