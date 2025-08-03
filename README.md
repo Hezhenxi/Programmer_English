@@ -183,12 +183,13 @@ yum		包管理工具
 wget	下载文件
 curl	传输数据
 unzip	解压缩文件
-rm	删除文件
-rm -rf /* 
-grep 搜索  Global Regular Expression  全局正则表达式
 
 
 #### mysql 909
+
+schedule  n.工作计划，日程安排，明细表   vt.安排，预定，列入 /ˈskedʒuːl/ event schedule 活动安排
+reclaim  vt.回收，开垦，利用 /rɪˈkleɪm/  reclaim memory 回收内存
+commission   n.委员会，佣金 /kəˈmɪʃn/  employees's commission 员工委员会
 exact  adj.准确的，精确的，严格的 vt.要求，强迫，索取，迫使/ɪɡˈzækt/  exact output 准确的输出
 agnostic  n.不可知论者，无关/æɡˈnɑːstɪk/  database agnostic 与数据库无关
 fragment  n.片段，碎片  v.破碎，破裂/ˈfræɡmənt , fræɡˈment/  code fragment ,cache fragent 代码碎片，内存碎片
@@ -202,7 +203,7 @@ given  prep.鉴于，考虑到  adj.规定的，特定的，指定的  n.假设�
 delimiter  n.分隔符 delimiter //
 sufficient  n.adj.足够的，充足的  /səˈfɪʃnt/  sufficient privilege足够的权限
 preserve  vt.保存，保护，保留 n.果酱，泡菜  /prɪˈzɜːrv/  preserve enable 开启保持
-cursor  n.光标，游标/ˈkɜːrsər/
+cursor  n.光标，游标/ˈkɜːrsər/  cursor execute 游标执行。
 suppress  vt.抑制，控制，雅致，禁止，镇压，封锁/səˈpres/  suppress warning 压制警告
 theme  n.主题，旋律，主题酒馆/θiːm/ 
 clause  n.法律条款，子句，从句/klɔːz/   where clause where子句
@@ -595,7 +596,7 @@ contact 接触，联络ˈkɑːntækt
 continuous 连续的 kənˈtɪnjuəs
 countless 不可计算ˈkaʊntləs
 
-defined 定义/明确dɪˈfaɪnd
+defined v.定义/明确 /dɪˈfaɪnd/ parameter defined 参数定义
 deliver 交付dɪˈlɪvər	deliverable 可交付的dɪˈlɪvərəbl
 depth	深度depθ
 device 设备 dɪˈvaɪs
@@ -1021,6 +1022,7 @@ cloudy 多云、阴天/ˈklaʊdi/
 mode  n.模式，方法/moʊd/     design patterns has a lot of mode  设计策略有很多模式
 model n.模型，设计，样本 v.复制 adj.规范的 /ˈmɑːdl/
 modern adj.现代的，时髦的  n.现代人 /ˈmɑːdərn/
+module  n.模块，单元 /ˈmɑːdʒuːl/  in this module 在这个模块
 moderate 中等的，节制的  美/ˈmɑːdəreɪt/  英/ˈmɒdərət/
 overcast 阴天 美/ˌoʊvərˈkæst/ 英/ˌəʊvəˈkɑːst/
 shower 沐浴，小雨ˈʃaʊər
@@ -1346,7 +1348,7 @@ phonetic 拼音/fənetɪk/
 
 ### ə/ /ɑ 	
 instructions 指令，教导  /ɪnstrʌkʃ(ə)n/
-compromise n.妥协，折中，和解 v.让步，折中，违背  v.使受到怀疑/ˈkɑːmprəmaɪz/  compromise account 被怀疑的账户
+compromise n.妥协，折中，和解 v.让步，折中，违背  v.使受到怀疑/ˈkɑːmprəmaɪz/  compromise account 被怀疑的账户  compromise data comsistency 妥协数据一致性（反向）。
 promise		承诺/ˈprɑːmɪs/
 brand new  adj. 崭新的/ˌbrænd ˈnuː/
 similar	相似的 /ˈsɪmələr/
